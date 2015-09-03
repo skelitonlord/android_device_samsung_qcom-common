@@ -1,8 +1,0 @@
-[
-  {
-    "remote": "TeamBliss-Devices", 
-    "repository": "android_hardware_samsung",
-    "target_path": "hardware/samsung"
-    " branch": "cm-12.0" 
-  }
-]
